@@ -5,13 +5,13 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>sjy1218鍗氬</string>
+		<string>sjy1218博客</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
 			<key>FullScreen</key>
-			<true/>
+			<false/>
 			<key>Icon</key>
 			<data>
 			iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAYAAADsEGyPAAAACXBI
@@ -15829,7 +15829,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>sjy1218鍗氬</string>
+			<string>sjy1218博客</string>
 			<key>PayloadDescription</key>
 			<string>Adds a Web Clip.</string>
 			<key>PayloadDisplayName</key>
@@ -15837,7 +15837,7 @@
 			<key>PayloadIdentifier</key>
 			<string>muxue.pro.webclip1</string>
 			<key>PayloadOrganization</key>
-			<string>sjy1218鍗氬</string>
+			<string>sjy1218博客</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -15851,13 +15851,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>sjy1218鍗氬</string>
+	<string>sjy1218博客</string>
 	<key>PayloadDisplayName</key>
-	<string>sjy1218鍗氬</string>
+	<string>sjy1218博客</string>
 	<key>PayloadIdentifier</key>
 	<string>sjy1218</string>
 	<key>PayloadOrganization</key>
-	<string>sjy11218鍗氬</string>
+	<string>sjy11218博客</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
