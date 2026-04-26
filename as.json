@@ -1,16 +1,18 @@
 {
-  "appstore": [
+  "name": "MyAppName",
+  "bundleIdentifier": "com.example.myapp",
+  "developerName": "John Doe",
+  "version": "1.0.0",
+  "downloadURL": "https://example.com/path/to/app.ipa",
+  "icons": [
     {
-      "name": "example-repo",
-      "url": "http://download.example.com/repos/",
-      "enabled": true,
-      "priority": 1
+      "size": "128x128",
+      "url": "https://example.com/path/to/icon.png"
     },
     {
-      "name": "another-repo",
-      "url": "http://mirror.example.com/another-repo/",
-      "enabled": false,
-      "priority": 2
+      "size": "256x256",
+      "url": "https://example.com/path/to/icon@2x.png"
     }
-  ]
+  ],
+  "description": "This is a description of the app detailing its functionality."
 }
