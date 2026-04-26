@@ -1,4 +1,6 @@
 {
+"items":[
+{
   "name": "dopamine",
   "bundleIdentifier": "com.opa334.Dopamine",
   "developerName": "opa334",
@@ -15,4 +17,6 @@
     }
   ],
   "description": "This is a description of the app detailing its functionality."
+}
+]
 }
