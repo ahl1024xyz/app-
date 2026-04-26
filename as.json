@@ -1,8 +1,16 @@
 {
-    appstore:
-    name:多巴胺;
-    iconurl:null;
-    downloadurl:https://cn-bj-api.xxbyq.com.cn:59993/api/v3/slave/download/0/TTovTUNTTi80NDg0LzIwMjYvMDQtMjYvMTc3NzE4MTQ5NF9Eb3BhbWluZSAyLmlwYQ/Dopamine%202.ipa?sign=Ost9ouevFbSA4QIfHogm-lC6Qjfm83XilR-i6FdtD0k%3D%3A1777207969;
-    description:null;
-    Edition:2.4.9;
+  "repositories": [
+    {
+      "name": "example-repo",
+      "url": "http://download.example.com/repos/",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "another-repo",
+      "url": "http://mirror.example.com/another-repo/",
+      "enabled": false,
+      "priority": 2
     }
+  ]
+}
