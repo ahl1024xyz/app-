@@ -1,5 +1,5 @@
 {
-  "repositories": [
+  "appstore": [
     {
       "name": "example-repo",
       "url": "http://download.example.com/repos/",
