@@ -2,14 +2,14 @@
   "name": "test1145145",
   "identifier": "io.github.ahl1024xyz",
   "subtitle": "test",
-  "iconURL": "https://ahl1024xyz.github.io/app-/icon/IMG_0005.gif",
+  "iconURL": "https://cdn.jsdelivr.net/gh/simpleapplerepo/assets/icon/sample.png",
   "apps": [
     {
       "name": "XSign",
       "bundleIdentifier": "co.xsign",
       "version": "3",
       "ipaURL": "https://ahl1024xyz.github.io/app-/as/XSign.ipa",
-      "iconURL": "https://ahl1024xyz.github.io/app-/icon/IMG_0005.gif"
+      "iconURL": "https://cdn.jsdelivr.net/gh/simpleapplerepo/assets/icon/sample.png"
     }
   ]
 }
