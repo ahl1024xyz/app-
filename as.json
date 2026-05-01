@@ -1,0 +1,13 @@
+{
+  "name": "test1145145",
+  "identifier": "io.github.ahl1024xyz",
+  "iconURL": "null",
+  "apps": [
+    {
+      "name": "null",
+      "bundleIdentifier": "com.example.app1",
+      "version": "1.0.0",
+      "ipaURL": "https://example.com/App1-1.0.0.ipa"
+    }
+  ]
+}
