@@ -9,6 +9,7 @@
       "bundleIdentifier": "co.xsign",
       "version": "3",
       "ipaURL": "https://ahl1024xyz.github.io/app-/as/XSign.ipa"
+      "iconURL": "https://example.com/icon-app1.png
     }
   ]
 }
