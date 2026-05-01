@@ -1,13 +1,13 @@
 {
   "name": "test1145145",
   "identifier": "io.github.ahl1024xyz",
-  "iconURL": "null",
+  "iconURL": "https://ahl1024xyz.github.io/app-/icon/IMG_0005.gif",
   "apps": [
     {
-      "name": "null",
-      "bundleIdentifier": "com.example.app1",
-      "version": "1.0.0",
-      "ipaURL": "https://example.com/App1-1.0.0.ipa"
+      "name": "XSign",
+      "bundleIdentifier": "co.xsign",
+      "version": "3",
+      "ipaURL": "https://ahl1024xyz.github.io/app-/as/XSign.ipa"
     }
   ]
 }
